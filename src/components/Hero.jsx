@@ -18,12 +18,12 @@ function Hero() {
       </nav>
 
       <h1 className='head_text'>
-        Summarize Articles with <br  />
-        <span className='orange_gradient '>OpenAI GPT-4</span>
+        
+        <span className='orange_gradient '>OpenAI GPT-4</span> <br  />
+        Kullanarak Uzun Makaleleri Özetleyin
       </h1>
       <h2 className='desc'>
-        Simplify your reading with Summize, an open-source article summarizer
-        that transforms lengthy articles into clear and concise summaries
+        Okuması uzun ve yorucu makaleleri GPT4 yardımıyla hızlıca özetleyin
       </h2>
     </header>
   )
